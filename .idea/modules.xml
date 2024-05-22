@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Skuska_garaz_praktika.iml" filepath="$PROJECT_DIR$/Skuska_garaz_praktika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skuska_testElektro/Skuska_testElektro.iml" filepath="$PROJECT_DIR$/Skuska_testElektro/Skuska_testElektro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skusky_praktika.iml" filepath="$PROJECT_DIR$/Skusky_praktika.iml" />
     </modules>
   </component>
 </project>
